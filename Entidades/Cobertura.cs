@@ -38,5 +38,14 @@ namespace Entidades
             }
 
         }
+        public Cobertura(string descripcion, string empresa,byte cantidadMaximaFamilia,double costoBase,List<Enfermedad> enfermedades,tipoCobertura tipo )
+        {
+            this.Descripcion = descripcion;
+            this.Empresa = empresa;
+            this.CantidadMaximiGrupoFamiliar = cantidadMaximaFamilia;
+            this.CostoBase = costoBase;
+            this.EnfermedadesIncluidadas = enfermedades;
+            this.Tipo = tipo;
+        }
     }
 }

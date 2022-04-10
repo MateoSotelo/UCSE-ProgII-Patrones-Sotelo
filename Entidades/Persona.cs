@@ -19,6 +19,16 @@ namespace Entidades
         {
             return IngresosNetosAnuales > cobertura.CalcularCosto();
         }
+        public Persona(string nombre,string apellido,int dni,DateTime fechaNacimiento, string ciudad,double ingresosNetosAnuales,Cobertura cobertura)
+        {
+            this.Nombre = nombre;
+            this.Apellido = apellido;
+            this.DNI = dni;
+            this.FechaNacimiento = fechaNacimiento;
+            this.Ciudad = ciudad;
+            this.IngresosNetosAnuales = ingresosNetosAnuales;
+            this.CoberturaAsociada = cobertura;
+        }
 
     }
 }
