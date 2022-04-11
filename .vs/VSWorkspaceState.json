@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Entidades",
-    "\\Persistencia"
+    "\\Persistencia",
+    "\\Presentacion"
   ],
-  "SelectedNode": "\\Persistencia\\Principal.cs",
+  "SelectedNode": "\\Presentacion\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
