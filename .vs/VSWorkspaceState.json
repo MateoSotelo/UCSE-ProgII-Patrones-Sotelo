@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Entidades",
+    "\\LogicaDeNegocios",
     "\\Persistencia",
     "\\Presentacion"
   ],
-  "SelectedNode": "\\Presentacion\\Program.cs",
+  "SelectedNode": "\\LogicaDeNegocios\\SingletonLogica.cs",
   "PreviewInSolutionExplorer": false
 }
