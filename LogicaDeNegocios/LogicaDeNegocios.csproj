@@ -49,6 +49,10 @@
       <Project>{2252ab20-014f-4ab0-97be-1f701e0bccc1}</Project>
       <Name>Entidades</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Persistencia\Persistencia.csproj">
+      <Project>{bc0d9cf5-1443-412c-9f06-2b3f9306f52a}</Project>
+      <Name>Persistencia</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

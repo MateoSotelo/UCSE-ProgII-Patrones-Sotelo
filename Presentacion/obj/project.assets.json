@@ -14,13 +14,26 @@
       "LogicaDeNegocios/1.0.0": {
         "type": "project",
         "dependencies": {
-          "Entidades": "1.0.0"
+          "Entidades": "1.0.0",
+          "Persistencia": "1.0.0"
         },
         "compile": {
           "bin/placeholder/LogicaDeNegocios.dll": {}
         },
         "runtime": {
           "bin/placeholder/LogicaDeNegocios.dll": {}
+        }
+      },
+      "Persistencia/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Persistencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Persistencia.dll": {}
         }
       }
     }
@@ -35,6 +48,11 @@
       "type": "project",
       "path": "../LogicaDeNegocios/LogicaDeNegocios.csproj",
       "msbuildProject": "../LogicaDeNegocios/LogicaDeNegocios.csproj"
+    },
+    "Persistencia/1.0.0": {
+      "type": "project",
+      "path": "../Persistencia/Persistencia.csproj",
+      "msbuildProject": "../Persistencia/Persistencia.csproj"
     }
   },
   "projectFileDependencyGroups": {

@@ -25,7 +25,7 @@ namespace Persistencia
                 return instancia;
             }
         }
-        public const string path = @"C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Jsons";
+        public const string path = @"C:\Users\msote\OneDrive\Escritorio\Jsons_Patrones";
         public void GuardarListado(List<Persona> personas)
         {
             if (!File.Exists(path + @"\Personas.txt"))

@@ -19,6 +19,13 @@ namespace Entidades
             this.Coberturas = coberturas;
             this.Enfermedades = enfermedades;
         }
+        public Listas()
+        {
+            this.Personas = new List<Persona>();
+            this.Atenciones = new List<Atencion>();
+            this.Coberturas = new List<Cobertura>();
+            this.Enfermedades = new List<Enfermedad>();
+        }
         
     }
 }
