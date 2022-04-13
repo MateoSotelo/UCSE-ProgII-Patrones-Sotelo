@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Entidades;
 using Persistencia;
+using System.Net;
+using System.Net.Mail;
 
 namespace LogicaDeNegocios
 {
@@ -53,6 +55,7 @@ namespace LogicaDeNegocios
             Atencion nuevaAtencion = new Atencion(listas.Atenciones.Count(),fechaAtencion, enfermedad, persona);
             listas.Atenciones.Add(nuevaAtencion);
             persistencia.GuardarListado(listas.Atenciones);
+            EnviarMail();
             return true;
         }
         public double ValidarEnfermedad(Persona persona, Cobertura cobertura, int codigoEnfermedad, DateTime fecha)
@@ -63,6 +66,25 @@ namespace LogicaDeNegocios
                 return BuscarEnfermedad(codigoEnfermedad).Costo;
             }
             return 0;
+        }
+        public void EnviarMail()
+        {
+            MailAddress to = new MailAddress("msotelo111201@gmail.com");
+            MailAddress from = new MailAddress("msotelo111201@gmail.com");
+            MailMessage mail = new MailMessage(from, to);
+            mail.Subject = "Nueva Atencion";
+            mail.Body = "Se ha cargado una nueva atencion";
+
+            SmtpClient smtp = new SmtpClient();
+            smtp.Host = "smtp.gmail.com";
+            smtp.Port = 587;
+
+            smtp.Credentials = new NetworkCredential(
+                "msotelo111201@gmail.com", "losceibos4");
+            smtp.EnableSsl = true;
+
+            Console.WriteLine("Mail enviado");
+            smtp.Send(mail);
         }
     }
 
