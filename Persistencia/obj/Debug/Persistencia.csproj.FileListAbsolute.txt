@@ -1,0 +1,11 @@
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Persistencia\bin\Debug\Entidades.dll
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Persistencia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Persistencia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\Persistencia\obj\Debug\Persistencia.pdb

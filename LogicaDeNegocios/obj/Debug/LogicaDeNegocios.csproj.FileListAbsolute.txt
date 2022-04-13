@@ -1,0 +1,13 @@
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\bin\Debug\LogicaDeNegocios.dll
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\bin\Debug\LogicaDeNegocios.pdb
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\bin\Debug\Entidades.dll
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\bin\Debug\Persistencia.dll
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\bin\Debug\Entidades.pdb
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\bin\Debug\Persistencia.pdb
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.csproj.CopyComplete
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.dll
+C:\Users\msote\OneDrive\Documentos\Repositorios\UCSE-ProgII-Patrones-Sotelo\LogicaDeNegocios\obj\Debug\LogicaDeNegocios.pdb
